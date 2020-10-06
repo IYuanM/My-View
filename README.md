@@ -11,4 +11,4 @@ My first view <br>
 ![mage text](https://github.com/IYuanM/My-View/blob/main/picture/2.PNG)
 ### * 表格布局
 1. 表格布局其实延续了线性布局，我调整了按钮权重和按钮中字体的方位，加了一个view标签做成实线。通过调整布局做成下图效果：<br>
-![mage text]()
+![mage text](https://github.com/IYuanM/My-View/blob/main/picture/3.PNG)

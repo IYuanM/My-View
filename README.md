@@ -8,7 +8,7 @@ My first view <br>
 ### * 约束布局<br>
 1. 创建xml文件选择androidx.constraintlayout.widget.ConstraintLayout<br>
 2. 首先创建两个边角的按钮，让他们相对于边框固定，接着创建橙色的按钮，同时相对于上下边框和左右两个按钮固定。接着创建粉色按钮，相对于上下左右边框固定，接着创建蓝色边框，相对于橙色和粉色按钮达成垂直约束，然后相对左右边框固定，最后创建绿色和紫色按钮，相对于蓝色按钮达成水平约束，相对于粉色按钮和橙色按钮达成垂直约束。最后调整他们的距离达成最终成果。<br>
-![mage text](https://github.com/IYuanM/My-View/blob/main/picture/2.PNG)
+![mage text](https://github.com/IYuanM/My-View/blob/main/picture/3.PNG)
 ### * 表格布局
 1. 表格布局其实延续了线性布局，我调整了按钮权重和按钮中字体的方位，加了一个view标签做成实线。通过调整布局做成下图效果：<br>
-![mage text](https://github.com/IYuanM/My-View/blob/main/picture/3.PNG)
+![mage text](https://github.com/IYuanM/My-View/blob/main/picture/2.PNG)
